@@ -1,8 +1,8 @@
 LANGUAGES
 
- -Python
- -Javascript
- -Html/CSS
+ -Python<br>
+ -Javascript<br>
+ -Html/CSS<br>
 
 <!---
 ItIzYe/ItIzYe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
