@@ -3,6 +3,7 @@
  -Python<br>
  -Javascript<br>
  -Html/CSS<br>
+ -C++
 
 <!---
 ItIzYe/ItIzYe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
