@@ -1,4 +1,4 @@
-![alt text](https://github.com/ItIzYe/ItIzYe/header.jpg?raw=true)
+![alt text](https://github.com/itizye/itizie/header.png?raw=true)
 
 <h1>LANGUAGES</h1>
 
