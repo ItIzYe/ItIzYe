@@ -1,4 +1,4 @@
-<img url='/header.png'></img>
+![alt text](https://github.com/ItIzYe/ItIzYe/header.jpg?raw=true)
 
 <h1>LANGUAGES</h1>
 
