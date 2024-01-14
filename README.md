@@ -1,4 +1,4 @@
-[https://github.com/ItIzYe/ItIzYe/blob/main/header.png](https://github.com/ItIzYe/ItIzYe/blob/main/header.png)
+![https://github.com/ItIzYe/ItIzYe/blob/main/header.png](https://github.com/ItIzYe/ItIzYe/blob/main/header.png)
 <h1>LANGUAGES</h1>
 
  -Python<br>
