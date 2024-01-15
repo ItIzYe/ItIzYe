@@ -14,6 +14,18 @@ Exploring the realms of code is not just my hobby, it's my passion. Being self-t
 
 I thrive in the languages of JavaScript, TypeScript, and Python. They're not just tools; they're my paintbrushes for crafting digital experiences.
 
+## 🚀 Projects
+
+Here are some of the projects I've been working on:
+
+1. **Project Name 1**
+   - Description: Brief description of the project.
+   - Tech Used: List technologies or languages utilized.
+
+2. **Project Name 2**
+   - Description: Brief description of the project.
+   - Tech Used: List technologies or languages utilized.
+
 ## 🚧 Future Aspirations
 
 My goal? To contribute to open source projects, pushing the boundaries of technology. I believe in the magic of collaboration and its power to transform the developer community.
