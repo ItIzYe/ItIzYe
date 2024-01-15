@@ -21,6 +21,3 @@ My goal? To contribute to open source projects, pushing the boundaries of techno
 ## 🌐 Let's Connect!
 
 Open to new opportunities, collaborations, or just a friendly code chat. Reach out, and let's create something extraordinary together! 😊✨
-```
-
-Feel free to adjust it further to match your style!
