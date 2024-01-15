@@ -22,7 +22,7 @@ I thrive in the languages of JavaScript, TypeScript, and Python. They're not jus
   
 - **Tech Used:** Python, JavaScript, discord.py, discord.js
 
-   🌐 [Check out Drippy.JS](#) (If applicable, you can replace "#" with the link to your project repository or a relevant page.)
+   🌐 [Check out Drippy.JS]()
 
 ## 🚧 Future Aspirations
 
