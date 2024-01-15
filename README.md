@@ -18,9 +18,9 @@ I thrive in the languages of JavaScript, TypeScript, and Python. They're not jus
 
 Here are some of the projects I've been working on:
 
-1. **Project Name 1**
-   - Description: Brief description of the project.
-   - Tech Used: List technologies or languages utilized.
+1. **Drippy.JS**
+   - Description: Drippy.JS is a Discord Bot ehich I started back in the pandemic when i started programming. the earliest Version of it might be TI-30X, which was written in Python. Right now I'm workinh with 2 others on this project - we have switched to discord.js by now ;)
+   - Tech Used: Python, Javascrip. discord.py, discord.js
 
 2. **Project Name 2**
    - Description: Brief description of the project.
