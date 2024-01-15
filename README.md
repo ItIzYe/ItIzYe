@@ -23,6 +23,14 @@ I thrive in the languages of JavaScript, TypeScript, and Python. They're not jus
 - **Tech Used:** Python, JavaScript, discord.py, discord.js
 
    🌐 [Check out Drippy.JS](https://github.com/ItIzYe/Drippy.JS)
+
+   🌈 **Recent Features:** We've added exciting features like [Ban Command], [Channel Sets], and more! 
+
+   🤖 **Community Interaction:** Drippy.JS thrives on community feedback. [Join our Discord server](https://discord.gg/HTUwKkMEQF) to suggest new features, report bugs, or just chat with fellow users!
+
+   🚀 **Ongoing Development:** Our journey with Drippy.JS continues, and we're committed to making it even more awesome. Stay tuned for upcoming updates!
+
+
 ## 🚧 Future Aspirations
 
 My goal? To contribute to open source projects, pushing the boundaries of technology. I believe in the magic of collaboration and its power to transform the developer community.
