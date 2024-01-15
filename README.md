@@ -1,16 +1,26 @@
 ![https://github.com/ItIzYe/ItIzYe/blob/main/header.png](https://github.com/ItIzYe/ItIzYe/blob/main/header.png)
-<br><br>
-I'm an 18 year old self-thaught Developer, mostly in Python and Javascript/Typescript but I also use with C#, C++, MongoDB and other Software including Adobe, Figma and Bootstrap Studio for Designs.
-Most of my Repositories are 100% written by me including<br>
-- [ ] [ATM (Python)](https://github.com/ItIzYe/atm)
-- [ ] [MABuch (Python)](https://github.com/ItIzYe/MABuch)
-<br>and others, where I have gotten help from other Devs as well like<br>
-- [ ] [Drippy.JS (Javascript)](https://github.com/ItIzYe/Drippy.JS)
-<br><br>
 
-If you have projects I might work on, please just contact me, I'm happy to contribute to open-source
+## 🌟 Background
 
-<!---
-ItIzYe/ItIzYe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 18 years old
+- 📚 Self-taught developer
+- 💻 Proficient in JavaScript, TypeScript, and Python
+
+## 💡 My Passion
+
+Exploring the realms of code is not just my hobby, it's my passion. Being self-taught has been a thrilling journey, a testament to my commitment to mastering the craft of programming.
+
+## 🛠️ Tech Stack
+
+I thrive in the languages of JavaScript, TypeScript, and Python. They're not just tools; they're my paintbrushes for crafting digital experiences.
+
+## 🚧 Future Aspirations
+
+My goal? To contribute to open source projects, pushing the boundaries of technology. I believe in the magic of collaboration and its power to transform the developer community.
+
+## 🌐 Let's Connect!
+
+Open to new opportunities, collaborations, or just a friendly code chat. Reach out, and let's create something extraordinary together! 😊✨
+```
+
+Feel free to adjust it further to match your style!
